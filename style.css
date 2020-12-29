@@ -1,0 +1,170 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background:#fff;
+}
+/*topheader here*/
+.top-header{
+    background:#2e2e2e;
+}
+.menes ul{
+    padding: 15px 0;
+}
+.menes ul li{
+    float:left;
+    list-style:none;
+}
+.menes ul li a{
+    color:#9f9f9f;
+    font-size:12px;
+    padding-left:3px;
+}
+.links{
+    padding: 15px 0;
+}
+.links img{
+    height:32px;
+    width:32px;
+    border:2px solid black;
+    border-radius:50%;
+    padding:5px;
+    float:right;
+    margin-left:8px;
+    background:#787878;
+}
+.links img:hover{
+    background:#db4a39;
+}
+/*topheader end here*/
+
+/*middle menu here*/
+
+.hrline{
+    width:80%;
+    border-bottom:5px solid #f1f1f1;
+    margin-top:-5px;
+}
+
+.main-menu h2{
+    font-size:36px;
+    font-weight:500;
+    color:#333333;
+    font-family:sans-serif;
+}
+/*middle menu end here*/
+
+/*middle area here*/
+.middle-row{
+    background:#f1f1f1;
+    border-bottom:10px solid #e9e9e9;
+     border-top:5px solid #e9e9e9;
+}
+.middles-left h2{
+    font-size:36px;
+    color:#333333;
+}
+.middles-left p{
+    color:#666666;
+    font-size:16px;
+}
+.carousel-item img{
+    background-size:cover;
+}
+/*middle end here*/
+
+/*last-area-start here*/
+.lorem-ipsum-sec{
+    background:#e0e0e0;
+    border-left:10px solid #0099ff;
+}
+.last-area-left h2{
+    font-size:36px;
+    color:#333333;
+}
+.last-area-left h5{
+    font-size:18px;
+    color:#333333;
+}
+.last-area-right button{
+    width:280px;
+    font-size:26px;
+    color:#e6e6e6;
+    font-family:vardana;
+}
+.lorem-ipsum-sec h2{
+    font-family:vardana;
+}
+/*last-area-end here*/
+/* footer design here*/
+border-top:5px solid #000000;
+
+.footerqlinks ul li{
+    list-style-type:none;
+}
+.list-group li{
+    list-style-type:none;
+    color:#666666;
+    margin-top:10px;
+    font-size:14px;
+}
+
+
+.read-more-btn{
+    color:#0099ff;
+    font-size:12px;
+    float:right;
+    display:block;
+    font-family:vardana;
+}
+.ftrow p{
+    color:#666666;
+    font-size:14px;
+}
+.ftrow h5{
+    color:#ffffff;
+    font-size:13px;
+    font-family:vardana;
+}
+.ftrow h4{
+    color:#666666;
+    font-size:14px;
+    margin:0;
+    padding:0;
+    font-family:vardana;
+}
+.ftrow img{
+    border:1px solid #555555;
+    padding:3px;
+}
+.ftrow{
+    background:#1a1a1a;
+    overflow:hidden;
+}
+
+.ftrow button{
+    font-size:15px;
+    font-family:vardana;
+    font-weight:600;
+    color:#fff;
+    text-transform:uppercase;
+}
+.ftrow input,
+.ftrow textarea{
+    background:#232323;
+    border:none;
+}
+
+
+/*copyright area*/
+.copyright{
+    background:#222222;
+}
+.copyright p{
+    font-size:12px;
+    color:#666666;
+    
+}
+.template p{
+    float:right;
+}
