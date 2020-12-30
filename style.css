@@ -70,6 +70,7 @@ body{
 }
 .carousel-item img{
     background-size:cover;
+    width:100%;
 }
 /*middle end here*/
 
