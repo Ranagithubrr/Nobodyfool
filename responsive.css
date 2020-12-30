@@ -1,4 +1,7 @@
 @media screen and (max-width:991px){
+     .container, .container-sm, .container-md, .container-lg {
+    max-width: 95%;
+  }
     .menes ul li a,
     .copyright p{
         font-size:25px;
